@@ -42,7 +42,7 @@ const Home = () => {
           </h1>
           <Spinner />
           <p className="text-white text-base font-['MADE Outer Sans'] text-center mb-10 mx-5">
-            lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br></br><br></br>
           </p>
           <button
             style={{marginTop: "20px"}}
