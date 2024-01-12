@@ -37,7 +37,15 @@ const Home = () => {
         <Spinner />
       ) : !user ? (
         <>
+          <h1 className="text-3xl text-white font-['MADE Outer Sans'] mb-7">
+            WELCOME TO
+          </h1>
+          <Spinner />
+          <p className="text-white text-base font-['MADE Outer Sans'] text-center mb-10 mx-5">
+            lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          </p>
           <button
+            style={{marginTop: "20px"}}
             className="w-80 h-[35px] relative cursor-pointer"
             onClick={handleSignIn}
           >
