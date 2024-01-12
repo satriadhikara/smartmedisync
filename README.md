@@ -19,6 +19,16 @@ Your companion for health and wellness
 
 **Other**: Gemini-AI
 
+## Screenshots
+
+Loading Page
+
+<img src="public/ss-2.png" alt="Loading-Page" width="200"/>
+
+Default Page
+
+<img src="public/ss-1.png" alt="Default-Page" width="200"/>
+
 ## Run Locally
 
 Clone the project
